@@ -4,13 +4,19 @@
 #Praveen {
     color:rgb(91, 34, 190);
 }
+#Name {
+    color:crimson;
+}
+#praveen {
+    color:indigo
+}
 
 #Ramu {
-    color:rgb(186, 58, 111);
+    color:rgb(246, 105, 164);
 }
 
 body{
-background-color:yellow;
+background-color:rgb(247, 247, 245);
 
 }
 #Rev{
